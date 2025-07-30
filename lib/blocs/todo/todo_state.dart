@@ -1,5 +1,5 @@
 import 'package:equatable/equatable.dart';
-import 'package:todo_app/models/todo_models.dart'; // ✅ Match filename with your real model file
+import 'package:todo_app/models/todo_models.dart';
 
 class TodoState extends Equatable {
   final List<Todo> todos;
