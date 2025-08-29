@@ -96,7 +96,7 @@ flutter pub run flutter_native_splash:create
 
 🧠 Git Setup
 git init
-git remote add origin https://github.com/YOUR_USERNAME/todo_app.git
+git remote add origin https://github.com/Nasirullah2433/todo_app.git
 git add .
 git commit -m "Initial commit"
 git push -u origin main
